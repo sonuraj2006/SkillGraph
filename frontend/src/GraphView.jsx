@@ -11,8 +11,8 @@ import ReactFlow, {
 } from "reactflow";
 
 import "reactflow/dist/style.css";
+const API_URL = "https://skillgraph-i513.onrender.com";
 
-const API_URL = "http://127.0.0.1:8000";
 
 /* =====================================================
    CUSTOM NODE

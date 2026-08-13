@@ -3,7 +3,7 @@ import axios from "axios";
 import "./App.css";
 import GraphView from "./GraphView";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://skillgraph-i513.onrender.com";
 
 function App() {
   const [year, setYear] = useState("");
